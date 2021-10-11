@@ -1,6 +1,6 @@
 # vtu
 
-A new Flutter project.
+This is an application made for my referance.
 
 ## Getting Started
 
